@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "TIME TO PARTY!",
   "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js" 
+  }
   "dependencies": {
     "discord.js": "11.4.2",
   }
